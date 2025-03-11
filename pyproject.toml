@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dna-seq-classification-and-compression"
+version = "0.1.0"
+description = "A Python package for classifying and compressing DNA sequences."
+authors = [
+  { name = "Natalia Navarrete", email = "nnavhur@gmail.com" }
+]
+dependencies = []
