@@ -1,0 +1,6 @@
+"Transcript ID","Name","bp","Protein","Translation ID","Biotype","CCDS","UniProt Match","RefSeq Match","Flags"
+"ENST00000262340.6","RPE65-201","2605","533aa","ENSP00000262340.5"," Protein coding","CCDS643","Q16518","NM_000329.3","MANE Select, Ensembl Canonical, GENCODE Primary, GENCODE Basic, APPRIS  P1, TSL:1, "
+"ENST00000713937.1","RPE65-203","4141","412aa","ENSP00000519234.1"," Nonsense mediated decay","","-","-","-"
+"ENST00000713936.1","RPE65-202","3920","86aa","ENSP00000519233.1"," Nonsense mediated decay","","-","-","-"
+"ENST00000713938.1","RPE65-204","2306","217aa","ENSP00000519235.1"," Nonsense mediated decay","","-","-","-"
+"ENST00000713939.1","RPE65-205","2097","42aa","ENSP00000519236.1"," Nonsense mediated decay","","-","-","-"
