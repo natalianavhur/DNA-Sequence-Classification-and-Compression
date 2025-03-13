@@ -1,0 +1,4 @@
+"Transcript ID","Name","bp","Protein","Translation ID","Biotype","CCDS","UniProt Match","RefSeq Match","Flags"
+"ENST00000368984.8","HTRA1-201","2091","480aa","ENSP00000357980.3"," Protein coding","CCDS7630","Q92743","NM_002775.5","MANE Select, Ensembl Canonical, GENCODE Primary, GENCODE Basic, APPRIS  P1, TSL:1, "
+"ENST00000648167.1","HTRA1-203","1665","374aa","ENSP00000498033.1"," Protein coding","","A0A3B3IU24","-","GENCODE Basic, "
+"ENST00000420892.1","HTRA1-202","1214","221aa","ENSP00000412676.1"," Protein coding","","H0Y7G9","-","TSL:2, CDS 5' incomplete, "

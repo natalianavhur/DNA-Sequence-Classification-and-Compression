@@ -1,0 +1,3 @@
+"Transcript ID","Name","bp","Protein","Translation ID","Biotype","CCDS","UniProt Match","RefSeq Match","Flags"
+"ENST00000037502.11","MYOC-201","2100","504aa","ENSP00000037502.5"," Protein coding","CCDS1297","A0A0S2Z421 Q99972","NM_000261.2","MANE Select, Ensembl Canonical, GENCODE Primary, GENCODE Basic, APPRIS  P1, TSL:1, "
+"ENST00000638471.1","MYOC-202","1571","63aa","ENSP00000491206.1"," Nonsense mediated decay","","A0A1W2PP09","-","TSL:5, "
