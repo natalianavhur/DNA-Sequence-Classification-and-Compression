@@ -1,6 +1,7 @@
 # Overview
 
 This project is focused on ocular diseases. The goal is to integrate, classify, and compress DNA sequence data related to eye disorders while developing a robust data processing pipeline. By working with public genomic data, the project aims to extract meaningful insights about disease risk, with a particular focus on the following eye disease categories and their associated genes:
+(Gnomad Database Downloads)[https://gnomad.broadinstitute.org/downloads]
 
 - **Retinitis Pigmentosa (RP) and other Retinal Dystrophies**
   - **RHO (Rhodopsin):** Often associated with autosomal dominant RP.
