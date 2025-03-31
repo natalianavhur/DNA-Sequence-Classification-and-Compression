@@ -1,0 +1,51 @@
+{
+  "omim": {
+    "version": "1.0",
+    "searchResponse": {
+      "search": "gene:OPTN",
+      "expandedSearch": "gene:OPTN",
+      "parsedSearch": "+((number:gene:OPTN)^5.0 | ((text:geneoptn text:\"gene optn\")) | ((title:geneoptn title:\"gene optn\"))^3.0) ((text:geneoptn text:\"gene optn\"~100000)^2.0)",
+      "searchSuggestion": null,
+      "searchSpelling": null,
+      "filter": null,
+      "expandedFilter": null,
+      "fields": null,
+      "searchReport": null,
+      "totalResults": 3,
+      "startIndex": 0,
+      "endIndex": 2,
+      "sort": null,
+      "operator": null,
+      "searchTime": 1.0,
+      "entryList": [
+        {
+          "entry": {
+            "mimNumber": "602432",
+            "titles": {
+              "preferredTitle": "OPTINEURIN; OPTN"
+            },
+            "matches": "\"gene optn\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "613435",
+            "titles": {
+              "preferredTitle": "AMYOTROPHIC LATERAL SCLEROSIS 12 WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA; ALS12"
+            },
+            "matches": "\"gene optn\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "601652",
+            "titles": {
+              "preferredTitle": "MYOCILIN; MYOC"
+            },
+            "matches": "\"gene optn\""
+          }
+        }
+      ]
+    }
+  }
+}

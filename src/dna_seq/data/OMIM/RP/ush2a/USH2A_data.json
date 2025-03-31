@@ -1,0 +1,78 @@
+{
+  "omim": {
+    "version": "1.0",
+    "searchResponse": {
+      "search": "gene:USH2A",
+      "expandedSearch": "gene:USH2A",
+      "parsedSearch": "+((number:gene:USH2A)^5.0 | ((text:geneush2a text:\"gene ush2a\")) | ((title:geneush2a title:\"gene ush2a\"))^3.0) ((text:geneush2a text:\"gene ush2a\"~100000)^2.0)",
+      "searchSuggestion": null,
+      "searchSpelling": null,
+      "filter": null,
+      "expandedFilter": null,
+      "fields": null,
+      "searchReport": null,
+      "totalResults": 6,
+      "startIndex": 0,
+      "endIndex": 5,
+      "sort": null,
+      "operator": null,
+      "searchTime": 2.0,
+      "entryList": [
+        {
+          "entry": {
+            "mimNumber": "608400",
+            "titles": {
+              "preferredTitle": "USHERIN; USH2A"
+            },
+            "matches": "\"gene ush2a\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "613809",
+            "titles": {
+              "preferredTitle": "RETINITIS PIGMENTOSA 39; RP39"
+            },
+            "matches": "\"gene ush2a\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "276901",
+            "titles": {
+              "preferredTitle": "USHER SYNDROME, TYPE IIA; USH2A"
+            },
+            "matches": "\"gene ush2a\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "612971",
+            "titles": {
+              "preferredTitle": "PDZ DOMAIN-CONTAINING 7; PDZD7"
+            },
+            "matches": "\"gene ush2a\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "605472",
+            "titles": {
+              "preferredTitle": "USHER SYNDROME, TYPE IIC; USH2C"
+            },
+            "matches": "\"gene ush2a\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "602851",
+            "titles": {
+              "preferredTitle": "ADHESION G PROTEIN-COUPLED RECEPTOR V1; ADGRV1"
+            },
+            "matches": "\"gene ush2a\""
+          }
+        }
+      ]
+    }
+  }
+}

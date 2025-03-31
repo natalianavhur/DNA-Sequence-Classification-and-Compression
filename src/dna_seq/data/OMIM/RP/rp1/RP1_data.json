@@ -1,0 +1,42 @@
+{
+  "omim": {
+    "version": "1.0",
+    "searchResponse": {
+      "search": "gene:RP1",
+      "expandedSearch": "gene:RP1",
+      "parsedSearch": "+((number:gene:RP1)^5.0 | ((text:generp1 text:\"gene rp1\")) | ((title:generp1 title:\"gene rp1\"))^3.0) ((text:generp1 text:\"gene rp1\"~100000)^2.0)",
+      "searchSuggestion": null,
+      "searchSpelling": null,
+      "filter": null,
+      "expandedFilter": null,
+      "fields": null,
+      "searchReport": null,
+      "totalResults": 2,
+      "startIndex": 0,
+      "endIndex": 1,
+      "sort": null,
+      "operator": null,
+      "searchTime": 1.0,
+      "entryList": [
+        {
+          "entry": {
+            "mimNumber": "603937",
+            "titles": {
+              "preferredTitle": "RP1 AXONEMAL MICROTUBULE-ASSOCIATED PROTEIN; RP1"
+            },
+            "matches": "\"gene rp1\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "180100",
+            "titles": {
+              "preferredTitle": "RETINITIS PIGMENTOSA 1; RP1"
+            },
+            "matches": "\"gene rp1\""
+          }
+        }
+      ]
+    }
+  }
+}

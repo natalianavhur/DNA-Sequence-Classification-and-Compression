@@ -1,0 +1,42 @@
+{
+  "omim": {
+    "version": "1.0",
+    "searchResponse": {
+      "search": "gene:HTRA1",
+      "expandedSearch": "gene:HTRA1",
+      "parsedSearch": "+((number:gene:HTRA1)^5.0 | ((text:genehtra1 text:\"gene htra1\")) | ((title:genehtra1 title:\"gene htra1\"))^3.0) ((text:genehtra1 text:\"gene htra1\"~100000)^2.0)",
+      "searchSuggestion": null,
+      "searchSpelling": null,
+      "filter": null,
+      "expandedFilter": null,
+      "fields": null,
+      "searchReport": null,
+      "totalResults": 2,
+      "startIndex": 0,
+      "endIndex": 1,
+      "sort": null,
+      "operator": null,
+      "searchTime": 1.0,
+      "entryList": [
+        {
+          "entry": {
+            "mimNumber": "600142",
+            "titles": {
+              "preferredTitle": "CEREBRAL ARTERIOPATHY, AUTOSOMAL RECESSIVE, WITH SUBCORTICAL INFARCTS AND LEUKOENCEPHALOPATHY; CARASIL"
+            },
+            "matches": "\"gene htra1\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "616779",
+            "titles": {
+              "preferredTitle": "CEREBRAL ARTERIOPATHY, AUTOSOMAL DOMINANT, WITH SUBCORTICAL INFARCTS AND LEUKOENCEPHALOPATHY, TYPE 2; CADASIL2"
+            },
+            "matches": "\"gene htra1\""
+          }
+        }
+      ]
+    }
+  }
+}

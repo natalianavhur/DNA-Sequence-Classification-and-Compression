@@ -1,0 +1,51 @@
+{
+  "omim": {
+    "version": "1.0",
+    "searchResponse": {
+      "search": "gene:CYP1B1",
+      "expandedSearch": "gene:CYP1B1",
+      "parsedSearch": "+((number:gene:CYP1B1)^5.0 | ((text:genecyp1b1 text:\"gene cyp1b1\")) | ((title:genecyp1b1 title:\"gene cyp1b1\"))^3.0) ((text:genecyp1b1 text:\"gene cyp1b1\"~100000)^2.0)",
+      "searchSuggestion": null,
+      "searchSpelling": null,
+      "filter": null,
+      "expandedFilter": null,
+      "fields": null,
+      "searchReport": null,
+      "totalResults": 3,
+      "startIndex": 0,
+      "endIndex": 2,
+      "sort": null,
+      "operator": null,
+      "searchTime": 2.0,
+      "entryList": [
+        {
+          "entry": {
+            "mimNumber": "231300",
+            "titles": {
+              "preferredTitle": "GLAUCOMA 3, PRIMARY CONGENITAL, A; GLC3A"
+            },
+            "matches": "\"gene cyp1b1\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "617315",
+            "titles": {
+              "preferredTitle": "ANTERIOR SEGMENT DYSGENESIS 6; ASGD6"
+            },
+            "matches": "\"gene cyp1b1\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "107250",
+            "titles": {
+              "preferredTitle": "ANTERIOR SEGMENT DYSGENESIS 1; ASGD1"
+            },
+            "matches": "\"gene cyp1b1\""
+          }
+        }
+      ]
+    }
+  }
+}

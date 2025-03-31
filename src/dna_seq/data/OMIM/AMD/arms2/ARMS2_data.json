@@ -1,0 +1,42 @@
+{
+  "omim": {
+    "version": "1.0",
+    "searchResponse": {
+      "search": "gene:ARMS2",
+      "expandedSearch": "gene:ARMS2",
+      "parsedSearch": "+((number:gene:ARMS2)^5.0 | ((text:genearms2 text:\"gene arms2\")) | ((title:genearms2 title:\"gene arms2\"))^3.0) ((text:genearms2 text:\"gene arms2\"~100000)^2.0)",
+      "searchSuggestion": null,
+      "searchSpelling": null,
+      "filter": null,
+      "expandedFilter": null,
+      "fields": null,
+      "searchReport": null,
+      "totalResults": 2,
+      "startIndex": 0,
+      "endIndex": 1,
+      "sort": null,
+      "operator": null,
+      "searchTime": 1.0,
+      "entryList": [
+        {
+          "entry": {
+            "mimNumber": "611313",
+            "titles": {
+              "preferredTitle": "ARMS2 GENE; ARMS2"
+            },
+            "matches": "\"gene arms2\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "610698",
+            "titles": {
+              "preferredTitle": "MACULAR DEGENERATION, AGE-RELATED, 4; ARMD4"
+            },
+            "matches": "\"gene arms2\""
+          }
+        }
+      ]
+    }
+  }
+}

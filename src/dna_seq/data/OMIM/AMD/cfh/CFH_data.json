@@ -1,0 +1,60 @@
+{
+  "omim": {
+    "version": "1.0",
+    "searchResponse": {
+      "search": "gene:CFH",
+      "expandedSearch": "gene:CFH",
+      "parsedSearch": "+((number:gene:CFH)^5.0 | ((text:genecfh text:\"gene cfh\")) | ((title:genecfh title:\"gene cfh\"))^3.0) ((text:genecfh text:\"gene cfh\"~100000)^2.0)",
+      "searchSuggestion": null,
+      "searchSpelling": null,
+      "filter": null,
+      "expandedFilter": null,
+      "fields": null,
+      "searchReport": null,
+      "totalResults": 4,
+      "startIndex": 0,
+      "endIndex": 3,
+      "sort": null,
+      "operator": null,
+      "searchTime": 2.0,
+      "entryList": [
+        {
+          "entry": {
+            "mimNumber": "235400",
+            "titles": {
+              "preferredTitle": "HEMOLYTIC UREMIC SYNDROME, ATYPICAL, SUSCEPTIBILITY TO, 1; AHUS1"
+            },
+            "matches": "\"gene cfh\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "610698",
+            "titles": {
+              "preferredTitle": "MACULAR DEGENERATION, AGE-RELATED, 4; ARMD4"
+            },
+            "matches": "\"gene cfh\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "609814",
+            "titles": {
+              "preferredTitle": "COMPLEMENT FACTOR H DEFICIENCY; CFHD"
+            },
+            "matches": "\"gene cfh\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "613927",
+            "titles": {
+              "preferredTitle": "COMPLEMENT COMPONENT 2; C2"
+            },
+            "matches": "\"gene cfh\""
+          }
+        }
+      ]
+    }
+  }
+}

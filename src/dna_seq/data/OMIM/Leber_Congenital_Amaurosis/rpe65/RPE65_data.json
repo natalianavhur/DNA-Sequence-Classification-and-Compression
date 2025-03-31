@@ -1,0 +1,60 @@
+{
+  "omim": {
+    "version": "1.0",
+    "searchResponse": {
+      "search": "gene:RPE65",
+      "expandedSearch": "gene:RPE65",
+      "parsedSearch": "+((number:gene:RPE65)^5.0 | ((text:generpe65 text:\"gene rpe65\")) | ((title:generpe65 title:\"gene rpe65\"))^3.0) ((text:generpe65 text:\"gene rpe65\"~100000)^2.0)",
+      "searchSuggestion": null,
+      "searchSpelling": null,
+      "filter": null,
+      "expandedFilter": null,
+      "fields": null,
+      "searchReport": null,
+      "totalResults": 4,
+      "startIndex": 0,
+      "endIndex": 3,
+      "sort": null,
+      "operator": null,
+      "searchTime": 2.0,
+      "entryList": [
+        {
+          "entry": {
+            "mimNumber": "204100",
+            "titles": {
+              "preferredTitle": "LEBER CONGENITAL AMAUROSIS 2; LCA2"
+            },
+            "matches": "\"gene rpe65\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "618697",
+            "titles": {
+              "preferredTitle": "RETINITIS PIGMENTOSA 87 WITH CHOROIDAL INVOLVEMENT; RP87"
+            },
+            "matches": "\"gene rpe65\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "204000",
+            "titles": {
+              "preferredTitle": "LEBER CONGENITAL AMAUROSIS 1; LCA1"
+            },
+            "matches": "\"gene rpe65\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "605748",
+            "titles": {
+              "preferredTitle": "BETA-CAROTENE OXYGENASE 1; BCO1"
+            },
+            "matches": "\"gene rpe65\""
+          }
+        }
+      ]
+    }
+  }
+}

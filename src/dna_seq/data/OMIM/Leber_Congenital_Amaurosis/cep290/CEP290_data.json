@@ -1,0 +1,96 @@
+{
+  "omim": {
+    "version": "1.0",
+    "searchResponse": {
+      "search": "gene:CEP290",
+      "expandedSearch": "gene:CEP290",
+      "parsedSearch": "+((number:gene:CEP290)^5.0 | ((text:genecep290 text:\"gene cep290\")) | ((title:genecep290 title:\"gene cep290\"))^3.0) ((text:genecep290 text:\"gene cep290\"~100000)^2.0)",
+      "searchSuggestion": null,
+      "searchSpelling": null,
+      "filter": null,
+      "expandedFilter": null,
+      "fields": null,
+      "searchReport": null,
+      "totalResults": 8,
+      "startIndex": 0,
+      "endIndex": 7,
+      "sort": null,
+      "operator": null,
+      "searchTime": 2.0,
+      "entryList": [
+        {
+          "entry": {
+            "mimNumber": "610142",
+            "titles": {
+              "preferredTitle": "CENTROSOMAL PROTEIN, 290-KD; CEP290"
+            },
+            "matches": "\"gene cep290\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "610189",
+            "titles": {
+              "preferredTitle": "SENIOR-LOKEN SYNDROME 6; SLSN6"
+            },
+            "matches": "\"gene cep290\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "611755",
+            "titles": {
+              "preferredTitle": "LEBER CONGENITAL AMAUROSIS 10; LCA10"
+            },
+            "matches": "\"gene cep290\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "610188",
+            "titles": {
+              "preferredTitle": "JOUBERT SYNDROME 5; JBTS5"
+            },
+            "matches": "\"gene cep290\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "611134",
+            "titles": {
+              "preferredTitle": "MECKEL SYNDROME, TYPE 4; MKS4"
+            },
+            "matches": "\"gene cep290\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "614144",
+            "titles": {
+              "preferredTitle": "B9 DOMAIN-CONTAINING PROTEIN 1; B9D1"
+            },
+            "matches": "\"gene cep290\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "266900",
+            "titles": {
+              "preferredTitle": "SENIOR-LOKEN SYNDROME 1; SLSN1"
+            },
+            "matches": "\"gene cep290\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "614209",
+            "titles": {
+              "preferredTitle": "MECKEL SYNDROME, TYPE 9; MKS9"
+            },
+            "matches": "\"gene cep290\""
+          }
+        }
+      ]
+    }
+  }
+}

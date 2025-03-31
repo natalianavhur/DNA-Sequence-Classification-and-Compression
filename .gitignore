@@ -8,3 +8,7 @@ __pycache__/
 
 # Optionally, ignore virtual environments if they're in your repo folder
 venv/
+
+
+# Environment API KEY
+.env

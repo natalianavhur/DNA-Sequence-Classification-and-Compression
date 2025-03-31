@@ -1,0 +1,78 @@
+{
+  "omim": {
+    "version": "1.0",
+    "searchResponse": {
+      "search": "gene:RPGR",
+      "expandedSearch": "gene:RPGR",
+      "parsedSearch": "+((number:gene:RPGR)^5.0 | ((text:generpgr text:\"gene rpgr\")) | ((title:generpgr title:\"gene rpgr\"))^3.0) ((text:generpgr text:\"gene rpgr\"~100000)^2.0)",
+      "searchSuggestion": null,
+      "searchSpelling": null,
+      "filter": null,
+      "expandedFilter": null,
+      "fields": null,
+      "searchReport": null,
+      "totalResults": 6,
+      "startIndex": 0,
+      "endIndex": 5,
+      "sort": null,
+      "operator": null,
+      "searchTime": 2.0,
+      "entryList": [
+        {
+          "entry": {
+            "mimNumber": "300029",
+            "titles": {
+              "preferredTitle": "RETINITIS PIGMENTOSA 3; RP3"
+            },
+            "matches": "\"gene rpgr\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "312610",
+            "titles": {
+              "preferredTitle": "RETINITIS PIGMENTOSA GTPase REGULATOR; RPGR"
+            },
+            "matches": "\"gene rpgr\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "300455",
+            "titles": {
+              "preferredTitle": "RETINITIS PIGMENTOSA, X-LINKED, AND SINORESPIRATORY INFECTIONS WITH OR WITHOUT DEAFNESS; RPSRDF"
+            },
+            "matches": "\"gene rpgr\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "300834",
+            "titles": {
+              "preferredTitle": "MACULAR DEGENERATION, ATROPHIC, X-LINKED"
+            },
+            "matches": "\"gene rpgr\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "605446",
+            "titles": {
+              "preferredTitle": "RETINITIS PIGMENTOSA GTPase REGULATOR-INTERACTING PROTEIN; RPGRIP1"
+            },
+            "matches": "\"gene rpgr\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "300071",
+            "titles": {
+              "preferredTitle": "NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE 2A; CSNB2A"
+            },
+            "matches": "\"gene rpgr\""
+          }
+        }
+      ]
+    }
+  }
+}

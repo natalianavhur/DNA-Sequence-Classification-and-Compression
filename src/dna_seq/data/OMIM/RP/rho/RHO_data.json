@@ -1,0 +1,87 @@
+{
+  "omim": {
+    "version": "1.0",
+    "searchResponse": {
+      "search": "gene:RHO",
+      "expandedSearch": "gene:RHO",
+      "parsedSearch": "+((number:gene:RHO)^5.0 | ((text:generho text:\"gene rho\")) | ((title:generho title:\"gene rho\"))^3.0) ((text:generho text:\"gene rho\"~100000)^2.0)",
+      "searchSuggestion": null,
+      "searchSpelling": null,
+      "filter": null,
+      "expandedFilter": null,
+      "fields": null,
+      "searchReport": null,
+      "totalResults": 7,
+      "startIndex": 0,
+      "endIndex": 6,
+      "sort": null,
+      "operator": null,
+      "searchTime": 2.0,
+      "entryList": [
+        {
+          "entry": {
+            "mimNumber": "613731",
+            "titles": {
+              "preferredTitle": "RETINITIS PIGMENTOSA 4; RP4"
+            },
+            "matches": "\"gene rho\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "180380",
+            "titles": {
+              "preferredTitle": "RHODOPSIN; RHO"
+            },
+            "matches": "\"gene rho\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "610445",
+            "titles": {
+              "preferredTitle": "NIGHT BLINDNESS, CONGENITAL STATIONARY, AUTOSOMAL DOMINANT 1; CSNBAD1"
+            },
+            "matches": "\"gene rho\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "268000",
+            "titles": {
+              "preferredTitle": "RETINITIS PIGMENTOSA; RP"
+            },
+            "matches": "\"gene rho\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "220290",
+            "titles": {
+              "preferredTitle": "DEAFNESS, AUTOSOMAL RECESSIVE 1A; DFNB1A"
+            },
+            "matches": "\"gene rho\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "300071",
+            "titles": {
+              "preferredTitle": "NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE 2A; CSNB2A"
+            },
+            "matches": "\"gene rho\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "603937",
+            "titles": {
+              "preferredTitle": "RP1 AXONEMAL MICROTUBULE-ASSOCIATED PROTEIN; RP1"
+            },
+            "matches": "\"gene rho\""
+          }
+        }
+      ]
+    }
+  }
+}

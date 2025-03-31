@@ -1,0 +1,87 @@
+{
+  "omim": {
+    "version": "1.0",
+    "searchResponse": {
+      "search": "gene:MYOC",
+      "expandedSearch": "gene:MYOC",
+      "parsedSearch": "+((number:gene:MYOC)^5.0 | ((text:genemyoc text:\"gene myoc\")) | ((title:genemyoc title:\"gene myoc\"))^3.0) ((text:genemyoc text:\"gene myoc\"~100000)^2.0)",
+      "searchSuggestion": null,
+      "searchSpelling": null,
+      "filter": null,
+      "expandedFilter": null,
+      "fields": null,
+      "searchReport": null,
+      "totalResults": 7,
+      "startIndex": 0,
+      "endIndex": 6,
+      "sort": null,
+      "operator": null,
+      "searchTime": 2.0,
+      "entryList": [
+        {
+          "entry": {
+            "mimNumber": "601652",
+            "titles": {
+              "preferredTitle": "MYOCILIN; MYOC"
+            },
+            "matches": "\"gene myoc\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "137750",
+            "titles": {
+              "preferredTitle": "GLAUCOMA 1, OPEN ANGLE, A; GLC1A"
+            },
+            "matches": "\"gene myoc\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "231300",
+            "titles": {
+              "preferredTitle": "GLAUCOMA 3, PRIMARY CONGENITAL, A; GLC3A"
+            },
+            "matches": "\"gene myoc\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "608695",
+            "titles": {
+              "preferredTitle": "GLAUCOMA 1, OPEN ANGLE, J; GLC1J"
+            },
+            "matches": "\"gene myoc\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "608696",
+            "titles": {
+              "preferredTitle": "GLAUCOMA 1, OPEN ANGLE, K; GLC1K"
+            },
+            "matches": "\"gene myoc\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "107741",
+            "titles": {
+              "preferredTitle": "APOLIPOPROTEIN E; APOE"
+            },
+            "matches": "\"gene myoc\""
+          }
+        },
+        {
+          "entry": {
+            "mimNumber": "177700",
+            "titles": {
+              "preferredTitle": "GLAUCOMA 1, OPEN ANGLE, P; GLC1P"
+            },
+            "matches": "\"gene myoc\""
+          }
+        }
+      ]
+    }
+  }
+}
